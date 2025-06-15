@@ -12,7 +12,7 @@ To empower underserved communities by democratizing access to trustworthy data i
 
 ### 🎯 Mission
 
-To build an ecosystem of interoperable, domain-neutral open-source projects that streamline data collection, contextualization, and AI-based application development—adaptable across sectors such as agriculture, retail, construction, finance, and healthcare.
+To build an ecosystem of interoperable, domain-neutral open-source projects that streamline data collection, contextualization, and AI-based application development—adaptable across sectors such as, but not limited to, agriculture, retail, construction, finance, and healthcare.
 
 ---
 
@@ -42,7 +42,7 @@ To build an ecosystem of interoperable, domain-neutral open-source projects that
 
 ---
 
-### 👥 Use Cases & User Journeys
+### 👥 Use Cases & User Journeys (Examples)
 
 #### 🧑‍🌾 Rural Micro-Entrepreneur
 - Uses `VoiceCollect` to report daily earnings via WhatsApp in Hindi.
